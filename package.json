@@ -9,7 +9,11 @@
   "version": "1.0.0",
   "description": "personal twitter bot",
   "main": "server.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
   "author": "Wieslaw Zych",
   "license": "ISC"
 }
