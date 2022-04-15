@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "node-cron": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "twrssbot",
+  "version": "1.0.0",
+  "description": "personal twitter bot",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Wieslaw Zych",
+  "license": "ISC"
+}
